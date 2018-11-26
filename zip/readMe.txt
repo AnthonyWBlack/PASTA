@@ -1,0 +1,1 @@
+Please note that an empty folder called zip with write access will be needed for best results.

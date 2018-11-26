@@ -1,0 +1,142 @@
+.pastaButton{
+	background-color:#330000;
+	border-radius:8px;
+	color:#DDDD33;
+	font-size:16px;
+}
+.pastaContent{
+	left:0px;
+	padding:16px;
+	position:absolute;
+	top:144px;
+	width:100%;
+}
+.pastaDashLink{
+	background-color:#330000;
+	border-radius:16px;
+	color:#DDDD33;
+	display:inline-block;
+	font-size:18px;
+	height:24px;
+	text-align:center;
+	width:200px;
+}
+.pastaForm{
+	background-color:#DDDD33;
+	border-radius:32px;
+	margin:auto;
+	width:400px;
+}
+.pastaFormCenter{
+	font-weight:bold;
+	margin:auto;
+	text-align:center;
+	align-items:center;
+}
+.pastaFormInput{
+	width:190px;
+}
+.pastaFormLeft{
+	float:left;
+	margin-left:32px;
+	text-align:left;
+}
+.pastaFormRight{
+	float:right;
+	margin-right:32px;
+	text-align:right;
+}
+.pastaFormWide{
+	background-color:#DDDD33;
+	border-radius:32px;
+	margin:auto;
+	width:800px;
+}
+.pastaHead{
+	background-color:#DDDD33;
+	border-radius:32px;
+	color:#330000;
+	font-size:48px;
+	font-weight:bold;
+	height:96px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	text-align:center;
+	top:0px;
+	width:100%;
+}
+.pastaHeadSub{
+	clear:left;
+	font-size:24px;
+}
+.pastaLoader{
+	height:256px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	visibility:hidden;
+	width:256px;
+	z-index:1000000;
+}
+.pastaNav{
+	background-color:#330000;
+	border-radius:32px;
+	color:#DDDD33;
+	font-size:24px;
+	font-weight:bold;
+	height:48px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	text-align:center;
+	top:96px;
+	width:100%;
+}
+.pastaNavA:link{
+	color:#DDFFFF;
+	decoration:none;
+}
+.pastaNavA:visited{
+	color:#DDFFFF;
+	decoration:none;
+}
+.pastaNavA:hover{
+	color:#DDFFDD;
+	decoration:none;
+}
+.pastaNavA:active{
+	color:#FFFFFF;
+	decoration:none;
+}
+.pastaNavI:link{
+	color:#DDDD33;
+	decoration:none;
+}
+.pastaNavI:visited{
+	color:#DDDD33;
+	decoration:none;
+}
+.pastaNavI:hover{
+	color:#DDFFDD;
+	decoration:none;
+}
+.pastaNavI:active{
+	color:#FFFFFF;
+	decoration:none;
+}
+.pastaSubHead{
+	background-color:#DDDD33;
+	border-radius:16px;
+	color:#330000;
+	font-size:24px;
+	margin:auto;
+	text-align:center;
+	width:80%;
+}
+
+body{
+	background-color:#FFFFCC;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
